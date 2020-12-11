@@ -281,6 +281,12 @@ button:focus {
   outline-color: cornflowerblue;
 }
 
+/* Benefits section */
+
+.benefits-head {
+  background: black;
+}
+
 /* Media Query */
 @media screen and (max-width: 932px) {
   html {
